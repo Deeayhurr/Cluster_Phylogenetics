@@ -5,14 +5,14 @@
       <branch_length>0</branch_length>
       <clade>
         <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Hyaena hyaena]</name>
-        <branch_length>0.03819805465218203</branch_length>
+        <branch_length>0.0397426756089331</branch_length>
       </clade>
       <clade>
         <name>Inner6</name>
-        <branch_length>0.030912778578562415</branch_length>
+        <branch_length>0.03245739953531348</branch_length>
         <clade>
           <name>Inner5</name>
-          <branch_length>0.00434959634066525</branch_length>
+          <branch_length>0.004925208586983599</branch_length>
           <clade>
             <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Piliocolobus tephrosceles]</name>
             <branch_length>0.0037065439672801515</branch_length>
@@ -32,14 +32,14 @@
         </clade>
         <clade>
           <name>Inner4</name>
-          <branch_length>0.006727344755709928</branch_length>
+          <branch_length>0.006094056832954066</branch_length>
           <clade>
             <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Pongo abelii]</name>
-            <branch_length>0.0049075276585749394</branch_length>
+            <branch_length>0.006116427827649151</branch_length>
           </clade>
           <clade>
             <name>Inner2</name>
-            <branch_length>0.0019868889232281806</branch_length>
+            <branch_length>0.0031957890923023924</branch_length>
             <clade>
               <name>NAD-dependent protein deacetylase sirtuin-1 isoform a [Homo sapiens]</name>
               <branch_length>0.0015263291783261246</branch_length>
