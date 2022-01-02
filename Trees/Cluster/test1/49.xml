@@ -1,0 +1,128 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner15</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Inner14</name>
+        <branch_length>0.39776074945163614</branch_length>
+        <clade>
+          <name>zona pellucida sperm-binding protein 2 isoform X1 [Hyaena hyaena]</name>
+          <branch_length>0.15420006469935926</branch_length>
+        </clade>
+        <clade>
+          <name>Inner12</name>
+          <branch_length>0.1405775573347219</branch_length>
+          <clade>
+            <name>Inner11</name>
+            <branch_length>0.01517150953106814</branch_length>
+            <clade>
+              <name>zona pellucida sperm-binding protein 2 [Papio anubis]</name>
+              <branch_length>0.013622507364637354</branch_length>
+            </clade>
+            <clade>
+              <name>Inner5</name>
+              <branch_length>0.00779824805848392</branch_length>
+              <clade>
+                <name>zona pellucida sperm-binding protein 2 isoform X1 [Rhinopithecus roxellana]</name>
+                <branch_length>0.005824259306153434</branch_length>
+              </clade>
+              <clade>
+                <name>zona pellucida sperm-binding protein 2 [Piliocolobus tephrosceles]</name>
+                <branch_length>0.005824259306153434</branch_length>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>Inner9</name>
+            <branch_length>0.01846013748284999</branch_length>
+            <clade>
+              <name>zona pellucida sperm-binding protein 2 isoform X1 [Pongo abelii]</name>
+              <branch_length>0.010333879412855504</branch_length>
+            </clade>
+            <clade>
+              <name>Inner6</name>
+              <branch_length>0.004377970432573611</branch_length>
+              <clade>
+                <name>ZP2 protein [Homo sapiens]</name>
+                <branch_length>0.0032100667693887863</branch_length>
+              </clade>
+              <clade>
+                <name>Inner3</name>
+                <branch_length>0.002745842210893107</branch_length>
+                <clade>
+                  <name>zona pellucida sperm-binding protein 2 isoform X1 [Pan paniscus]</name>
+                  <branch_length>0.0032100667693887863</branch_length>
+                </clade>
+                <clade>
+                  <name>zona pellucida sperm-binding protein 2 isoform X1 [Gorilla gorilla gorilla]</name>
+                  <branch_length>0.005955908980281893</branch_length>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>Inner13</name>
+        <branch_length>0.5122181385420623</branch_length>
+        <clade>
+          <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Hyaena hyaena]</name>
+          <branch_length>0.0397426756089331</branch_length>
+        </clade>
+        <clade>
+          <name>Inner10</name>
+          <branch_length>0.03245739953531348</branch_length>
+          <clade>
+            <name>Inner8</name>
+            <branch_length>0.004925208586983599</branch_length>
+            <clade>
+              <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Piliocolobus tephrosceles]</name>
+              <branch_length>0.0037065439672801515</branch_length>
+            </clade>
+            <clade>
+              <name>Inner4</name>
+              <branch_length>0.003578732106339466</branch_length>
+              <clade>
+                <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Rhinopithecus roxellana]</name>
+                <branch_length>0.0037065439672801515</branch_length>
+              </clade>
+              <clade>
+                <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Papio anubis]</name>
+                <branch_length>0.007285276073619618</branch_length>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>Inner7</name>
+            <branch_length>0.006094056832954066</branch_length>
+            <clade>
+              <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Pongo abelii]</name>
+              <branch_length>0.006116427827649151</branch_length>
+            </clade>
+            <clade>
+              <name>Inner2</name>
+              <branch_length>0.0031957890923023924</branch_length>
+              <clade>
+                <name>NAD-dependent protein deacetylase sirtuin-1 isoform a [Homo sapiens]</name>
+                <branch_length>0.0015263291783261246</branch_length>
+              </clade>
+              <clade>
+                <name>Inner1</name>
+                <branch_length>0.0013943095570206343</branch_length>
+                <clade>
+                  <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Gorilla gorilla gorilla]</name>
+                  <branch_length>0.0015263291783261246</branch_length>
+                </clade>
+                <clade>
+                  <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Pan paniscus]</name>
+                  <branch_length>0.002920638735346759</branch_length>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
