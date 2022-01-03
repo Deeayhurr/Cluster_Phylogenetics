@@ -5,12 +5,14 @@ from Bio.SeqIO.XdnaIO import _parse_feature_description
 import numpy as np
 from Bio import SeqIO
 from Bio import Phylo
+from Bio.Phylo import Consensus
 import matplotlib as plt
 from Bio.Phylo.TreeConstruction import DistanceCalculator
 from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
 from Bio import AlignIO
 from Bio.Align import MultipleSeqAlignment
 import os
+
 
 
 def read_seq(seq_file_path, file_format):
@@ -83,9 +85,9 @@ def build_cluster_tree(cluster_dict):
         #write tree to file
         treename = "Trees/Cluster/"+str(key)+".xml"
         Phylo.write(pars_tree, treename, "phyloxml")
-        draw_tree(pars_tree)
+        #draw_tree(pars_tree)
     return cluster_tree_lists
-    
+ 
 
 def build_tree(aligned_sequence, aligned_squence_filetype, seq_type):
     '''A methid for building trees using aligned sequences'''
@@ -116,37 +118,35 @@ def build_tree(aligned_sequence, aligned_squence_filetype, seq_type):
     #Constructs and returns an Unweighted Pair Group Method with Arithmetic mean (UPGMA) tree.
     upgmatree = constructor.upgma(dm)
     #print(upgmatree)
-
-    #Make tree Parsimonius
-    scorer = Phylo.TreeConstruction.ParsimonyScorer()
-    searcher = Phylo.TreeConstruction.NNITreeSearcher(scorer)
-    constructor = Phylo.TreeConstruction.ParsimonyTreeConstructor(searcher, upgmatree)
-    pars_tree = constructor.build_tree(aln)
-    #print(pars_tree)
+    if not aligned_sequence.endswith("all-alignment.fa"):
+        #Make tree Parsimonius
+        scorer = Phylo.TreeConstruction.ParsimonyScorer()
+        searcher = Phylo.TreeConstruction.NNITreeSearcher(scorer)
+        constructor = Phylo.TreeConstruction.ParsimonyTreeConstructor(searcher, upgmatree)
+        pars_tree = constructor.build_tree(aln)
+        #print(pars_tree)
+        return pars_tree
+    else:
+        return upgmatree
     # ##Construct and return a Neighbor Joining tree.
     # # njtree = constructor.nj(dm)
     # # print(njtree)
-    return pars_tree
+    
 
 
-
-
-
-
-def consensus_tree(tree_list):
+def consensus_tree(aligned_sequence, aligned_squence_filetype):
     '''This method is to create Consensus tree'''
-    # tree_list = []
-    # for fname in os.listdir(tree_file_path):
-    #     if fname.startswith != tree_file_path+"all-alignment":
-    #         tree = Phylo.read(fname, "phyloxml")
-    #         tree_list.append(tree)  
-    strict_consensus = Phylo.Consensus.strict_consensus(tree_list)
-    print(strict_consensus)
-    majority_consensus = Phylo.Consensus.majority_consensus(tree_list, cutoff=0.5)
-    print(majority_consensus)
-    adam_consensus = Phylo.Consensus.adam_consensus(tree_list)
-    print(adam_consensus)
-    return strict_consensus, majority_consensus, adam_consensus
+    aln = AlignIO.read(open(aligned_sequence), aligned_squence_filetype)
+    bts = Consensus.bootstrap(aln, 100)
+    calculator = DistanceCalculator("blosum62")
+    constructor = DistanceTreeConstructor(calculator)
+    consensus_tree = Consensus.bootstrap_consensus(bts, 100, constructor, Consensus.majority_consensus)
+    #trees = Consensus.bootstrap_trees(bts, 100, constructor)
+    #strict_consensus = Consensus.strict_consensus(tree_list)
+    #majority_consensus = Consensus.majority_consensus(tree_list, cutoff=0.5)
+    #adam_consensus = Consensus.adam_consensus(tree_list)
+    #print(adam_consensus)
+    return consensus_tree
 
 def draw_tree(tree):
     '''A method for visualizing trees through drawings'''
@@ -155,45 +155,52 @@ def draw_tree(tree):
     tree.root.color = (128, 128, 128)
     Phylo.draw(tree) 
 
+def draw_coloured_tree(tree):
+
+    '''A method for visualizing coloured trees through drawings'''
+    #draw tree
+    tree = tree.as_phyloxml()
+    tree.root.color = (128, 128, 128)
+    protein_match = tree.find_elements(name='NAD-dependent protein deacetylase sirtuin-1 isoform X1')    
+    protein_name = tree.common_ancestor({"name": protein_match}, {"name": protein_match})
+    protein_name.color = "salmon"
+    
+    animal_match = tree.find_elements(name='hyaena hyaena')
+    animal_match.color = "red"
+    Phylo.draw(tree) 
     ##Phylogenetics - visualizing tree
     # tree = Phylo.read("simple.dnd", "newick")
     # print(tree)
     # #Phylo.draw_ascii(tree)
     # tree.rooted = True
-    # #Phylo.draw(tree)
-    # tree = tree.as_phyloxml()
-    # tree.root.color = (128, 128, 128)
-    # mrca = tree.common_ancestor({"name": "E"}, {"name": "F"})
-    # mrca.color = "salmon"
     # tree.clade[1, 0].color = "blue"
     # #Phylo.draw(tree)
 
 
-
 def main_program():
     '''Method for running the full program'''
-    tree_lists = []
+  
     for fname in os.listdir('aligned_sequences'):
         if fname.endswith('.fa'):
             filepath = 'aligned_sequences/'+fname
             seq_file_type = "fasta"
             built_tree = build_tree(filepath,seq_file_type,"protein")
             #write tree to file
-            tree_lists.append(built_tree)
             treename = "Trees/"+fname.split(".")[0]+".xml"
             Phylo.write(built_tree, treename, "phyloxml")
-            draw_tree(built_tree)
-    return tree_lists
+            if not fname.startswith("all-alignment"):
+                consensus_tree = consensus_tree(filepath,seq_file_type)
+                consensus_treename = "Trees/Consensus_trees/"+fname.split(".")[0]+".xml"
+                Phylo.write(consensus_tree, consensus_treename, "phyloxml")
+        elif fname == "aligned_sequences/Cluster_files":
+            for filename in os.listdir(fname):
+                consensus_tree = consensus_tree(filename,seq_file_type)
+                consensus_treename = "Trees/Consensus_trees/Cluster/"+fname.split(".")[0]+".xml"
+                Phylo.write(consensus_tree, consensus_treename, "phyloxml")   
+            #draw_tree(built_tree)
+    
 
 
-#cluster_seq = cluster_sequences("aligned_sequences/all-alignment.fa","fasta")
-#cluster_tree_lists = build_cluster_tree(cluster_seq)
-tree_lists = main_program()
-consensus_tree = consensus_tree(tree_lists)
-#cluster_consensus_tree = consensus_tree(cluster_tree_lists)
-draw_tree(consensus_tree[0])
-draw_tree(consensus_tree[1])
-draw_tree(consensus_tree[2])
-# draw_tree(cluster_consensus_tree[0])
-# draw_tree(cluster_consensus_tree[1])
-# draw_tree(cluster_consensus_tree[2])
+cluster_seq = cluster_sequences("aligned_sequences/all-alignment.fa","fasta")
+cluster_tree_lists = build_cluster_tree(cluster_seq)
+main_program()

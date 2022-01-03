@@ -1,38 +1,22 @@
 <phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
   <phylogeny rooted="true">
     <clade>
-      <name>Inner4</name>
+      <name>Inner2</name>
       <branch_length>0</branch_length>
       <clade>
-        <name>Inner3</name>
-        <branch_length>0.0021692319571822855</branch_length>
-        <clade>
-          <name>glucagon [Papio anubis]</name>
-          <branch_length>0.009468173070862063</branch_length>
-        </clade>
-        <clade>
-          <name>Inner1</name>
-          <branch_length>0.005813202310628152</branch_length>
-          <clade>
-            <name>glucagon [Rhinopithecus roxellana]</name>
-            <branch_length>0.003654970760233911</branch_length>
-          </clade>
-          <clade>
-            <name>glucagon [Piliocolobus tephrosceles]</name>
-            <branch_length>0.003654970760233911</branch_length>
-          </clade>
-        </clade>
+        <name>glucagon [Papio anubis]</name>
+        <branch_length>0.009468173070862063</branch_length>
       </clade>
       <clade>
-        <name>Inner2</name>
-        <branch_length>0.005464565521871481</branch_length>
+        <name>Inner1</name>
+        <branch_length>0.005813202310628152</branch_length>
         <clade>
-          <name>glucagon [Pongo abelii]</name>
-          <branch_length>0.006172839506172867</branch_length>
+          <name>glucagon [Rhinopithecus roxellana]</name>
+          <branch_length>0.003654970760233911</branch_length>
         </clade>
         <clade>
-          <name>glucagon [Pan paniscus]</name>
-          <branch_length>0.006172839506172867</branch_length>
+          <name>glucagon [Piliocolobus tephrosceles]</name>
+          <branch_length>0.003654970760233911</branch_length>
         </clade>
       </clade>
     </clade>

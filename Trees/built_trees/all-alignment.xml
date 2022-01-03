@@ -1,0 +1,512 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner63</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Inner62</name>
+        <branch_length>0.4131863774679477</branch_length>
+        <clade>
+          <name>Inner56</name>
+          <branch_length>0.40861181373164773</branch_length>
+          <clade>
+            <name>zona pellucida sperm-binding protein 2 isoform X1 [Hyaena hyaena]</name>
+            <branch_length>0.15420006469935926</branch_length>
+          </clade>
+          <clade>
+            <name>Inner46</name>
+            <branch_length>0.1405775573347219</branch_length>
+            <clade>
+              <name>Inner36</name>
+              <branch_length>0.01517150953106814</branch_length>
+              <clade>
+                <name>zona pellucida sperm-binding protein 2 [Papio anubis]</name>
+                <branch_length>0.013622507364637354</branch_length>
+              </clade>
+              <clade>
+                <name>Inner18</name>
+                <branch_length>0.00779824805848392</branch_length>
+                <clade>
+                  <name>zona pellucida sperm-binding protein 2 isoform X1 [Rhinopithecus roxellana]</name>
+                  <branch_length>0.005824259306153434</branch_length>
+                </clade>
+                <clade>
+                  <name>zona pellucida sperm-binding protein 2 [Piliocolobus tephrosceles]</name>
+                  <branch_length>0.005824259306153434</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>Inner30</name>
+              <branch_length>0.01846013748284999</branch_length>
+              <clade>
+                <name>zona pellucida sperm-binding protein 2 isoform X1 [Pongo abelii]</name>
+                <branch_length>0.010333879412855504</branch_length>
+              </clade>
+              <clade>
+                <name>Inner19</name>
+                <branch_length>0.004377970432573611</branch_length>
+                <clade>
+                  <name>zona pellucida sperm-binding protein 2 isoform X1 [Gorilla gorilla gorilla]</name>
+                  <branch_length>0.005955908980281893</branch_length>
+                </clade>
+                <clade>
+                  <name>Inner10</name>
+                  <branch_length>0.002745842210893107</branch_length>
+                  <clade>
+                    <name>zona pellucida sperm-binding protein 2 isoform X1 [Pan paniscus]</name>
+                    <branch_length>0.0032100667693887863</branch_length>
+                  </clade>
+                  <clade>
+                    <name>ZP2 protein [Homo sapiens]</name>
+                    <branch_length>0.0032100667693887863</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Inner61</name>
+          <branch_length>0.5094958836325675</branch_length>
+          <clade>
+            <name>Inner48</name>
+            <branch_length>0.49624450834943457</branch_length>
+            <clade>
+              <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Hyaena hyaena]</name>
+              <branch_length>0.0397426756089331</branch_length>
+            </clade>
+            <clade>
+              <name>Inner32</name>
+              <branch_length>0.03245739953531348</branch_length>
+              <clade>
+                <name>Inner23</name>
+                <branch_length>0.004925208586983599</branch_length>
+                <clade>
+                  <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Papio anubis]</name>
+                  <branch_length>0.007285276073619618</branch_length>
+                </clade>
+                <clade>
+                  <name>Inner12</name>
+                  <branch_length>0.003578732106339466</branch_length>
+                  <clade>
+                    <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Rhinopithecus roxellana]</name>
+                    <branch_length>0.0037065439672801515</branch_length>
+                  </clade>
+                  <clade>
+                    <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Piliocolobus tephrosceles]</name>
+                    <branch_length>0.0037065439672801515</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>Inner20</name>
+                <branch_length>0.006094056832954066</branch_length>
+                <clade>
+                  <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Pongo abelii]</name>
+                  <branch_length>0.006116427827649151</branch_length>
+                </clade>
+                <clade>
+                  <name>Inner6</name>
+                  <branch_length>0.0031957890923023924</branch_length>
+                  <clade>
+                    <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Pan paniscus]</name>
+                    <branch_length>0.002920638735346759</branch_length>
+                  </clade>
+                  <clade>
+                    <name>Inner4</name>
+                    <branch_length>0.0013943095570206343</branch_length>
+                    <clade>
+                      <name>NAD-dependent protein deacetylase sirtuin-1 isoform X1 [Gorilla gorilla gorilla]</name>
+                      <branch_length>0.0015263291783261246</branch_length>
+                    </clade>
+                    <clade>
+                      <name>NAD-dependent protein deacetylase sirtuin-1 isoform a [Homo sapiens]</name>
+                      <branch_length>0.0015263291783261246</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>Inner59</name>
+            <branch_length>0.4826711891599281</branch_length>
+            <clade>
+              <name>Inner47</name>
+              <branch_length>0.4790457301182218</branch_length>
+              <clade>
+                <name>pro-glucagon [Hyaena hyaena]</name>
+                <branch_length>0.03294367693942614</branch_length>
+              </clade>
+              <clade>
+                <name>Inner33</name>
+                <branch_length>0.023475503868564077</branch_length>
+                <clade>
+                  <name>Inner28</name>
+                  <branch_length>0.0029264503030387978</branch_length>
+                  <clade>
+                    <name>glucagon [Papio anubis]</name>
+                    <branch_length>0.009468173070862063</branch_length>
+                  </clade>
+                  <clade>
+                    <name>Inner11</name>
+                    <branch_length>0.005813202310628152</branch_length>
+                    <clade>
+                      <name>glucagon [Rhinopithecus roxellana]</name>
+                      <branch_length>0.003654970760233911</branch_length>
+                    </clade>
+                    <clade>
+                      <name>glucagon [Piliocolobus tephrosceles]</name>
+                      <branch_length>0.003654970760233911</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Inner9</name>
+                  <branch_length>0.00919291579652627</branch_length>
+                  <clade>
+                    <name>glucagon [Gorilla gorilla gorilla]</name>
+                    <branch_length>0.0032017075773745907</branch_length>
+                  </clade>
+                  <clade>
+                    <name>Inner8</name>
+                    <branch_length>0.0001152878242881572</branch_length>
+                    <clade>
+                      <name>glucagon [Pan paniscus]</name>
+                      <branch_length>0.0030864197530864335</branch_length>
+                    </clade>
+                    <clade>
+                      <name>Inner1</name>
+                      <branch_length>0.0030864197530864335</branch_length>
+                      <clade>
+                        <name>glucagon [Pongo abelii]</name>
+                        <branch_length>0.0</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Glucagon [Homo sapiens]</name>
+                        <branch_length>0.0</branch_length>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>Inner58</name>
+              <branch_length>0.45867341225920844</branch_length>
+              <clade>
+                <name>Inner57</name>
+                <branch_length>0.45298575920681594</branch_length>
+                <clade>
+                  <name>Inner49</name>
+                  <branch_length>0.3641943296439958</branch_length>
+                  <clade>
+                    <name>myoglobin [Hyaena hyaena]</name>
+                    <branch_length>0.04123335519443294</branch_length>
+                  </clade>
+                  <clade>
+                    <name>Inner41</name>
+                    <branch_length>0.02855293838468552</branch_length>
+                    <clade>
+                      <name>Inner25</name>
+                      <branch_length>0.011624230031796186</branch_length>
+                      <clade>
+                        <name>Inner5</name>
+                        <branch_length>0.004953416149068329</branch_length>
+                        <clade>
+                          <name>myoglobin [Rhinopithecus roxellana]</name>
+                          <branch_length>0.0025000000000000022</branch_length>
+                        </clade>
+                        <clade>
+                          <name>myoglobin [Papio anubis]</name>
+                          <branch_length>0.0025000000000000022</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
+                        <branch_length>0.0074534161490683315</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Inner34</name>
+                      <branch_length>0.006397229371117096</branch_length>
+                      <clade>
+                        <name>myoglobin [Pongo abelii]</name>
+                        <branch_length>0.012680416809747422</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Inner21</name>
+                        <branch_length>0.005688454912168614</branch_length>
+                        <clade>
+                          <name>myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
+                          <branch_length>0.006991961897578808</branch_length>
+                        </clade>
+                        <clade>
+                          <name>Inner16</name>
+                          <branch_length>0.0020658535231945774</branch_length>
+                          <clade>
+                            <name>myoglobin isoform X1 [Pan paniscus]</name>
+                            <branch_length>0.0049261083743842304</branch_length>
+                          </clade>
+                          <clade>
+                            <name>myoglobin [Homo sapiens]</name>
+                            <branch_length>0.0049261083743842304</branch_length>
+                          </clade>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Inner52</name>
+                  <branch_length>0.3521116900399892</branch_length>
+                  <clade>
+                    <name>Inner51</name>
+                    <branch_length>0.01267335577096404</branch_length>
+                    <clade>
+                      <name>hemoglobin subunit epsilon [Hyaena hyaena]</name>
+                      <branch_length>0.053315994798439514</branch_length>
+                    </clade>
+                    <clade>
+                      <name>hemoglobin subunit epsilon [Piliocolobus tephrosceles]</name>
+                      <branch_length>0.053315994798439514</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Inner35</name>
+                    <branch_length>0.05785132973607021</branch_length>
+                    <clade>
+                      <name>Inner7</name>
+                      <branch_length>0.009772621873080194</branch_length>
+                      <clade>
+                        <name>hemoglobin subunit gamma [Pongo abelii]</name>
+                        <branch_length>0.002941176470588225</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Inner2</name>
+                        <branch_length>0.002287581699346397</branch_length>
+                        <clade>
+                          <name>hemoglobin subunit gamma-like [Rhinopithecus roxellana]</name>
+                          <branch_length>0.0006535947712418277</branch_length>
+                        </clade>
+                        <clade>
+                          <name>hemoglobin subunit gamma [Papio anubis]</name>
+                          <branch_length>0.0006535947712418277</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Inner27</name>
+                      <branch_length>0.004575777510335076</branch_length>
+                      <clade>
+                        <name>Inner15</name>
+                        <branch_length>0.0035688302328111543</branch_length>
+                        <clade>
+                          <name>hemoglobin subunit gamma-1 [Gorilla gorilla gorilla]</name>
+                          <branch_length>0.004569190600522188</branch_length>
+                        </clade>
+                        <clade>
+                          <name>hemoglobin subunit gamma-1 [Pan paniscus]</name>
+                          <branch_length>0.004569190600522188</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>G-gamma globin [Homo sapiens]</name>
+                        <branch_length>0.008138020833333343</branch_length>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>Inner50</name>
+                <branch_length>0.46159918448748005</branch_length>
+                <clade>
+                  <name>alpha-amylase 2B [Hyaena hyaena]</name>
+                  <branch_length>0.04470256951777543</branch_length>
+                </clade>
+                <clade>
+                  <name>Inner42</name>
+                  <branch_length>0.026435714593666726</branch_length>
+                  <clade>
+                    <name>Inner40</name>
+                    <branch_length>0.004881579020515253</branch_length>
+                    <clade>
+                      <name>alpha-amylase 1 [Papio anubis]</name>
+                      <branch_length>0.018266854924108705</branch_length>
+                    </clade>
+                    <clade>
+                      <name>Inner31</name>
+                      <branch_length>0.0064252147685767425</branch_length>
+                      <clade>
+                        <name>alpha-amylase 2B [Piliocolobus tephrosceles]</name>
+                        <branch_length>0.011841640155531963</branch_length>
+                      </clade>
+                      <clade>
+                        <name>alpha-amylase 2B [Rhinopithecus roxellana]</name>
+                        <branch_length>0.011841640155531963</branch_length>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Inner39</name>
+                    <branch_length>0.00633505366293384</branch_length>
+                    <clade>
+                      <name>alpha-amylase 1 [Pongo abelii]</name>
+                      <branch_length>0.01681338028169012</branch_length>
+                    </clade>
+                    <clade>
+                      <name>Inner22</name>
+                      <branch_length>0.009760043615048328</branch_length>
+                      <clade>
+                        <name>alpha-amylase 2B [Pan paniscus]</name>
+                        <branch_length>0.007053336666641791</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Inner3</name>
+                        <branch_length>0.005995508739984529</branch_length>
+                        <clade>
+                          <name>alpha-amylase 2B [Gorilla gorilla gorilla]</name>
+                          <branch_length>0.001057827926657262</branch_length>
+                        </clade>
+                        <clade>
+                          <name>alpha-amylase [Homo sapiens]</name>
+                          <branch_length>0.001057827926657262</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>Inner60</name>
+        <branch_length>0.48361226457084944</branch_length>
+        <clade>
+          <name>Inner55</name>
+          <branch_length>0.45188794418551265</branch_length>
+          <clade>
+            <name>Inner54</name>
+            <branch_length>0.026841515870179744</branch_length>
+            <clade>
+              <name>glycoprotein hormones alpha chain [Hyaena hyaena]</name>
+              <branch_length>0.0837741775964575</branch_length>
+            </clade>
+            <clade>
+              <name>Inner44</name>
+              <branch_length>0.05798942423322881</branch_length>
+              <clade>
+                <name>Inner13</name>
+                <branch_length>0.022047832585949195</branch_length>
+                <clade>
+                  <name>glycoprotein hormones alpha chain [Rhinopithecus roxellana]</name>
+                  <branch_length>0.0037369207772794955</branch_length>
+                </clade>
+                <clade>
+                  <name>glycoprotein hormones alpha chain [Piliocolobus tephrosceles]</name>
+                  <branch_length>0.0037369207772794955</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <name>glycoprotein hormones alpha chain [Papio anubis]</name>
+                <branch_length>0.02578475336322869</branch_length>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>Inner43</name>
+            <branch_length>0.08618813829614683</branch_length>
+            <clade>
+              <name>glycoprotein hormones alpha chain isoform X1 [Pongo abelii]</name>
+              <branch_length>0.024427555170490417</branch_length>
+            </clade>
+            <clade>
+              <name>Inner38</name>
+              <branch_length>0.00929683149578292</branch_length>
+              <clade>
+                <name>Inner26</name>
+                <branch_length>0.007378785690211359</branch_length>
+                <clade>
+                  <name>glycoprotein hormones alpha chain [Gorilla gorilla gorilla]</name>
+                  <branch_length>0.007751937984496138</branch_length>
+                </clade>
+                <clade>
+                  <name>glycoprotein hormones alpha chain [Pan paniscus]</name>
+                  <branch_length>0.007751937984496138</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <name>glycoprotein hormones alpha chain isoform 2 precursor [Homo sapiens]</name>
+                <branch_length>0.015130723674707497</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Inner53</name>
+          <branch_length>0.4612127400199918</branch_length>
+          <clade>
+            <name>albumin [Hyaena hyaena]</name>
+            <branch_length>0.07444938176197835</branch_length>
+          </clade>
+          <clade>
+            <name>Inner45</name>
+            <branch_length>0.0593279555785631</branch_length>
+            <clade>
+              <name>Inner37</name>
+              <branch_length>0.013398468902868155</branch_length>
+              <clade>
+                <name>Inner29</name>
+                <branch_length>0.005353984322950117</branch_length>
+                <clade>
+                  <name>serum albumin [Piliocolobus tephrosceles]</name>
+                  <branch_length>0.009767441860465131</branch_length>
+                </clade>
+                <clade>
+                  <name>serum albumin [Rhinopithecus roxellana]</name>
+                  <branch_length>0.009767441860465131</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <name>serum albumin [Papio anubis]</name>
+                <branch_length>0.015121426183415249</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <name>Inner24</name>
+              <branch_length>0.021121382535927036</branch_length>
+              <clade>
+                <name>albumin precursor [Pongo abelii]</name>
+                <branch_length>0.007398512550356368</branch_length>
+              </clade>
+              <clade>
+                <name>Inner17</name>
+                <branch_length>0.0017395978216742103</branch_length>
+                <clade>
+                  <name>serum albumin [Gorilla gorilla gorilla]</name>
+                  <branch_length>0.005658914728682157</branch_length>
+                </clade>
+                <clade>
+                  <name>Inner14</name>
+                  <branch_length>0.0017829457364340884</branch_length>
+                  <clade>
+                    <name>serum albumin [Pan paniscus]</name>
+                    <branch_length>0.003875968992248069</branch_length>
+                  </clade>
+                  <clade>
+                    <name>albumin [Homo sapiens]</name>
+                    <branch_length>0.003875968992248069</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

@@ -1,47 +1,47 @@
->myoglobin isoform X1 [Pan paniscus] Query_10042 XP_008973239.1 myoglobin isoform X1 [Pan paniscus]
+>glucagon [Piliocolobus tephrosceles] Query_10029 XP_023073103.1 glucagon [Piliocolobus tephrosceles]
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------MELGCQVCKHCAMGLS
-DGEWQLVLNVW---G------KVEADI-----PGHGQEVLIRLFKGHPETLEKFDKFKHL
-KSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYL-EFIS
-ECI-IQVLHSKHPGDFGADAQGAMNKALELFRKDMASNYKELGFQG--------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
--------------------------------------------
->myoglobin isoform X1 [Gorilla gorilla gorilla] Query_10043 XP_018874109.1 myoglobin isoform X1 [Gorilla gorilla gorilla]
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
---------------------------------------------MELGCQVCKHCAMGLS
-DGEWQLVLNVW---G------KVEADI-----SGHGQEVLIRLFKGHPETLEKFDKFKHL
-KSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYL-EFIS
-ECI-IQVLQSKHPGDFGADAQGAMNKALELFRKDMASNYKELGFQG--------------
-------------------------------------------------------------
+-----------------------------------------------------------M
+SKVSGRGKSFVTKTHYLQMRNLYCQRNICEAKQSWRVYKSSAP----WCRSAELRTQSTS
+KVLKEGLLSLHLLCSTAR--YRKTAEMK----SIYFVAGLFVMLVQGSWQRSLQDTEEKS
+RSFSASQADP---------LGDPDQMNEDKRHSQGTFTSDYSKYLDSRRA--QDFVQWLM
+NTKRNRNNIAKRHDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGRGRRDFPEDVAIV
+EELGRRHADGSFSDEMNTVLDNLATRDFINWLIQTKITDRK-------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->myoglobin isoform X1 [Piliocolobus tephrosceles] Query_10045 XP_023077864.1 myoglobin isoform X1 [Piliocolobus tephrosceles]
+>glucagon [Rhinopithecus roxellana] Query_10030 XP_010360153.1 glucagon [Rhinopithecus roxellana]
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
+---------------------------------------------------------MQM
+SKVSGRGKSFVTKTHYLQMRNLYCQRNICEAKQSWRVYKSSAP----WCRSAELRTQSTS
+KVPKEGLLSLHLLCSTAR--YRKTAEMK----SIYFVAGLFVMLVQGSWQRSLQDTEEKS
+RSFSASQADP---------LGDPDQMNEDKRHSQGTFTSDYSKYLDSRRA--QDFVQWLM
+NTKRNRNNIAKRHDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGRGRRDFPEDVAIV
+EELGRRHADGSFSDEMNTVLDNLATRDFINWLIQTKITDRK-------------------
 ------------------------------------------------------------
-------------------MLELHLSSKGEADIPSRAYAQCLQLEMELGCQLCKHCAMGLS
-DGEWQLVLNVW---G------KVEADI-----PSHGQEVLIRLFKGHPETLEKFDKFKHL
-KSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYL-ELIS
-ECI-IQVLQSKHPGDFGADAQGAMNKALELFRNDMAAKYKELGFQG--------------
 ------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------
+>glucagon [Papio anubis] Query_10031 XP_003907591.1 glucagon [Papio anubis]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------MQM
+SKVSGRGKSFVTKTHYLQMRNLYCQRNICEAKQSWRVYKSSAP----WCRSAELRTQSTS
+KVPKEGLLSLHLLCSTAH--YRKTAEMK----SIYFVAGLFVMLVQGSWQRSLQDTEEKS
+RSVSASQTDP---------LGDPDQMNEDKRHSQGTFTSDYSKYLDSRRA--QDFVQWLM
+NTKRNRNNIAKRHDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGRGRRDFPEEVAIV
+EELGRRHADGSFSDEMNTVLDNLATRDFINWLIQTKITDRK-------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------

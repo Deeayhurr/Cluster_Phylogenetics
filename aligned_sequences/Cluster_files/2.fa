@@ -1,4 +1,4 @@
->AAA98797.1 Query_10001 AAA98797.1 albumin [Homo sapiens]
+>albumin [Homo sapiens] Query_10001 AAA98797.1 albumin [Homo sapiens]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPF
 EDHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPE
@@ -14,7 +14,7 @@ VMDDFAAFVEKCCKADDKETCFAEEGKKLVAASQAALGL---------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_004038851.2 Query_10002 XP_004038851.2 serum albumin [Gorilla gorilla gorilla]
+>serum albumin [Gorilla gorilla gorilla] Query_10002 XP_004038851.2 serum albumin [Gorilla gorilla gorilla]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEETFKALVLVAFAQYLQQCPF
 EDHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPE
@@ -30,7 +30,7 @@ VMDDFAAFVEKCCKADDKETCFAEEGKKLVAASQAALGL---------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_003832390.1 Query_10003 XP_003832390.1 serum albumin [Pan paniscus]
+>serum albumin [Pan paniscus] Query_10003 XP_003832390.1 serum albumin [Pan paniscus]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLVAFAQYLQQCPF
 EDHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLREKYGEMADCCAK
 QEPERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEGTFLKKYLYEVARRHPYFYAPE
@@ -46,7 +46,7 @@ VMDDFAAFVEKCCKADDKETCFAEEGKKLVAASQAALGL---------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->NP_001127106.2 Query_10004 NP_001127106.2 albumin precursor [Pongo abelii]
+>albumin precursor [Pongo abelii] Query_10004 NP_001127106.2 albumin precursor [Pongo abelii]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEEKFKALVLIAFAQYLQQCPF
 EDHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPE
@@ -62,7 +62,7 @@ VMEDFAAFVEKCCKADDKETCFAEEGKKLVAASQAALGL---------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_031520350.1 Query_10005 XP_031520350.1 serum albumin [Papio anubis]
+>serum albumin [Papio anubis] Query_10005 XP_031520350.1 serum albumin [Papio anubis]
 MKWVTFISLLFLFSSAYSRGVFRRDTHKSEVAHRFKDLGEEHFKGLVLVAFSQYLQQCPF
 EEHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPPLVRPEVDVMCTAFHDNEATFLKKYLYEVARRHPYFYAPE
@@ -78,7 +78,7 @@ VMDNFAAFVEKCCKADDKEACFAEEGPKFVAASQAALA----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_010357300.1 Query_10006 XP_010357300.1 serum albumin [Rhinopithecus roxellana]
+>serum albumin [Rhinopithecus roxellana] Query_10006 XP_010357300.1 serum albumin [Rhinopithecus roxellana]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEEHFRGLVLVAFSQYLQQCPF
 EEHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPPLVRPEADVMCTAFHDNEATFLKKYLYEVARRHPYFYAPE
@@ -94,7 +94,7 @@ VMEDFAAFVEKCCKADDKEACFAEEGPKFVAASQAALA----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_023054286.1 Query_10007 XP_023054286.1 serum albumin [Piliocolobus tephrosceles]
+>serum albumin [Piliocolobus tephrosceles] Query_10007 XP_023054286.1 serum albumin [Piliocolobus tephrosceles]
 MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEEHFKGLVLVAFSQYLQQCPF
 EEHVKLVNEVTEFAKTCVADESAENCDK---SLHTLFGDKLCTVATLRETYGEMADCCAK
 QEPERNECFLQHKDDNPNLPPLMRPEADVMCTAFHDNEVTFLKKYLYEVARRHPYFYAPE
@@ -110,7 +110,7 @@ VMEDFVAFVEKCCKADDKEACFAEEGPKFVAASQAALA----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------------
->XP_039086927.1 Query_10008 XP_039086927.1 albumin [Hyaena hyaena]
+>albumin [Hyaena hyaena] Query_10008 XP_039086927.1 albumin [Hyaena hyaena]
 MKWVTFVSLLFLFSSAYSRGVIRREAHPSEIAHRYNDLGEEHFKGLVLVAFSQYLQQCPF
 EDHVKLVNEVTEFAKGCVADQSAADCDK---SLHVLFGDKLCTVASLREKYGEMADCCEK
 QEPERNECFLQHKDDNPGFPPLVPPEADAMCTAFHENEQRFLGKYLYEIARRHPYFYAPE

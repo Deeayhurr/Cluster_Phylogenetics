@@ -1,0 +1,64 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner7</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>pro-glucagon [Hyaena hyaena]</name>
+        <branch_length>0.03294367693942614</branch_length>
+      </clade>
+      <clade>
+        <name>Inner6</name>
+        <branch_length>0.023475503868564077</branch_length>
+        <clade>
+          <name>Inner5</name>
+          <branch_length>0.0029264503030387978</branch_length>
+          <clade>
+            <name>glucagon [Piliocolobus tephrosceles]</name>
+            <branch_length>0.003654970760233911</branch_length>
+          </clade>
+          <clade>
+            <name>Inner4</name>
+            <branch_length>0.005813202310628152</branch_length>
+            <clade>
+              <name>glucagon [Rhinopithecus roxellana]</name>
+              <branch_length>0.003654970760233911</branch_length>
+            </clade>
+            <clade>
+              <name>glucagon [Papio anubis]</name>
+              <branch_length>0.009468173070862063</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Inner3</name>
+          <branch_length>0.00919291579652627</branch_length>
+          <clade>
+            <name>glucagon [Gorilla gorilla gorilla]</name>
+            <branch_length>0.0032017075773745907</branch_length>
+          </clade>
+          <clade>
+            <name>Inner2</name>
+            <branch_length>0.0001152878242881572</branch_length>
+            <clade>
+              <name>Glucagon [Homo sapiens]</name>
+              <branch_length>0.0</branch_length>
+            </clade>
+            <clade>
+              <name>Inner1</name>
+              <branch_length>0.0030864197530864335</branch_length>
+              <clade>
+                <name>glucagon [Pongo abelii]</name>
+                <branch_length>0.0</branch_length>
+              </clade>
+              <clade>
+                <name>glucagon [Pan paniscus]</name>
+                <branch_length>0.0030864197530864335</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
