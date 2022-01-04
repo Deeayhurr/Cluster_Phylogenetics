@@ -2,52 +2,52 @@
   <phylogeny rooted="true">
     <clade>
       <clade>
-        <name>alpha-amylase 2B [Rhinopithecus roxellana]</name>
-        <branch_length>0.004364222499957923</branch_length>
+        <name>alpha-amylase 2B [Gorilla gorilla gorilla]</name>
+        <branch_length>0.0011682426370748771</branch_length>
       </clade>
       <clade>
-        <branch_length>0.0033424357131727066</branch_length>
-        <confidence type="unknown">90.0</confidence>
+        <branch_length>0.0039183157684369715</branch_length>
+        <confidence type="unknown">86.0</confidence>
         <clade>
-          <name>alpha-amylase 1 [Papio anubis]</name>
-          <branch_length>0.013400596666429974</branch_length>
+          <name>alpha-amylase 2B [Pan paniscus]</name>
+          <branch_length>0.010012528386286003</branch_length>
         </clade>
         <clade>
-          <name>alpha-amylase 2B [Piliocolobus tephrosceles]</name>
-          <branch_length>0.017794462274881254</branch_length>
+          <name>alpha-amylase [Homo sapiens]</name>
+          <branch_length>0.0009991715448908964</branch_length>
         </clade>
       </clade>
       <clade>
-        <branch_length>0.006993821248997376</branch_length>
-        <confidence type="unknown">54.0</confidence>
+        <branch_length>0.006033721939033801</branch_length>
+        <confidence type="unknown">51.0</confidence>
         <clade>
           <name>alpha-amylase 1 [Pongo abelii]</name>
-          <branch_length>0.023911137443517853</branch_length>
+          <branch_length>0.016337907209202515</branch_length>
         </clade>
         <clade>
-          <branch_length>0.006340570904980992</branch_length>
-          <confidence type="unknown">52.0</confidence>
+          <branch_length>0.006546280970444379</branch_length>
+          <confidence type="unknown">46.0</confidence>
           <clade>
-            <name>alpha-amylase 2B [Hyaena hyaena]</name>
-            <branch_length>0.07956550640972253</branch_length>
+            <name>alpha-amylase 2B [Rhinopithecus roxellana]</name>
+            <branch_length>0.006960049703247911</branch_length>
           </clade>
           <clade>
-            <branch_length>0.011443922295623167</branch_length>
-            <confidence type="unknown">66.0</confidence>
+            <branch_length>0.010554906234714305</branch_length>
+            <confidence type="unknown">63.0</confidence>
             <clade>
-              <name>alpha-amylase [Homo sapiens]</name>
-              <branch_length>0.0</branch_length>
+              <name>alpha-amylase 2B [Hyaena hyaena]</name>
+              <branch_length>0.05588816584033617</branch_length>
             </clade>
             <clade>
-              <branch_length>0.009852421947138963</branch_length>
-              <confidence type="unknown">70.0</confidence>
+              <branch_length>0.010569894177424525</branch_length>
+              <confidence type="unknown">68.0</confidence>
               <clade>
-                <name>alpha-amylase 2B [Gorilla gorilla gorilla]</name>
-                <branch_length>0.0</branch_length>
+                <name>alpha-amylase 1 [Papio anubis]</name>
+                <branch_length>0.013982601385283414</branch_length>
               </clade>
               <clade>
-                <name>alpha-amylase 2B [Pan paniscus]</name>
-                <branch_length>0.02225008632790656</branch_length>
+                <name>alpha-amylase 2B [Piliocolobus tephrosceles]</name>
+                <branch_length>0.017186207626865974</branch_length>
               </clade>
             </clade>
           </clade>

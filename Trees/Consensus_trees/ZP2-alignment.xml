@@ -3,54 +3,54 @@
     <clade>
       <clade>
         <name>zona pellucida sperm-binding protein 2 isoform X1 [Gorilla gorilla gorilla]</name>
-        <branch_length>0.011799790401806915</branch_length>
+        <branch_length>0.011224963806968247</branch_length>
       </clade>
       <clade>
-        <branch_length>0.005673797938340655</branch_length>
-        <confidence type="unknown">98.0</confidence>
+        <branch_length>0.00576174991934885</branch_length>
+        <confidence type="unknown">100.0</confidence>
         <clade>
           <name>zona pellucida sperm-binding protein 2 isoform X1 [Pongo abelii]</name>
-          <branch_length>0.01307766165483482</branch_length>
+          <branch_length>0.010750386258913044</branch_length>
         </clade>
         <clade>
-          <branch_length>0.01713240920710741</branch_length>
-          <confidence type="unknown">98.0</confidence>
+          <branch_length>0.017050325929117618</branch_length>
+          <confidence type="unknown">100.0</confidence>
           <clade>
             <name>zona pellucida sperm-binding protein 2 isoform X1 [Hyaena hyaena]</name>
-            <branch_length>0.3155158685165557</branch_length>
+            <branch_length>0.2850301318270933</branch_length>
           </clade>
           <clade>
-            <branch_length>0.01566990179019562</branch_length>
-            <confidence type="unknown">98.0</confidence>
+            <branch_length>0.016427860792881246</branch_length>
+            <confidence type="unknown">100.0</confidence>
             <clade>
               <name>zona pellucida sperm-binding protein 2 [Papio anubis]</name>
-              <branch_length>0.02097974508342007</branch_length>
+              <branch_length>0.011186564258847904</branch_length>
             </clade>
             <clade>
-              <branch_length>0.0042449135856499</branch_length>
-              <confidence type="unknown">85.0</confidence>
+              <branch_length>0.0039546508511344855</branch_length>
+              <confidence type="unknown">89.0</confidence>
               <clade>
                 <name>zona pellucida sperm-binding protein 2 isoform X1 [Rhinopithecus roxellana]</name>
-                <branch_length>0.009760429734520057</branch_length>
+                <branch_length>0.003568807214100571</branch_length>
               </clade>
               <clade>
                 <name>zona pellucida sperm-binding protein 2 [Piliocolobus tephrosceles]</name>
-                <branch_length>0.0033808389033368608</branch_length>
+                <branch_length>0.004058059122352804</branch_length>
               </clade>
             </clade>
           </clade>
         </clade>
       </clade>
       <clade>
-        <branch_length>0.0006151248087751967</branch_length>
+        <branch_length>0.0006106405986642281</branch_length>
         <confidence type="unknown">59.0</confidence>
         <clade>
           <name>zona pellucida sperm-binding protein 2 isoform X1 [Pan paniscus]</name>
-          <branch_length>0.0017973806550545222</branch_length>
+          <branch_length>0.002739981756150367</branch_length>
         </clade>
         <clade>
           <name>ZP2 protein [Homo sapiens]</name>
-          <branch_length>0.0002634127504065366</branch_length>
+          <branch_length>0.002237749446364734</branch_length>
         </clade>
       </clade>
     </clade>

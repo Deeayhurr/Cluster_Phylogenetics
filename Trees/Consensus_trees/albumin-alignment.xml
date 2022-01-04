@@ -3,51 +3,51 @@
     <clade>
       <clade>
         <name>serum albumin [Gorilla gorilla gorilla]</name>
-        <branch_length>0.005682230595297051</branch_length>
+        <branch_length>0.0024481436694692264</branch_length>
       </clade>
       <clade>
         <name>albumin precursor [Pongo abelii]</name>
-        <branch_length>0.014177225561134314</branch_length>
+        <branch_length>0.013196412025149085</branch_length>
       </clade>
       <clade>
-        <branch_length>0.0016102669303622752</branch_length>
+        <branch_length>0.0011583366827404879</branch_length>
         <confidence type="unknown">35.0</confidence>
         <clade>
           <name>albumin [Homo sapiens]</name>
-          <branch_length>0.0039930239211488</branch_length>
+          <branch_length>0.002130079720171898</branch_length>
         </clade>
         <clade>
-          <branch_length>0.0031847276365946668</branch_length>
-          <confidence type="unknown">34.0</confidence>
+          <branch_length>0.0028395027350559764</branch_length>
+          <confidence type="unknown">35.0</confidence>
           <clade>
             <name>serum albumin [Pan paniscus]</name>
-            <branch_length>0.006097335940186249</branch_length>
+            <branch_length>0.006532217203282321</branch_length>
           </clade>
           <clade>
-            <branch_length>0.019444089322605513</branch_length>
+            <branch_length>0.018147146664166457</branch_length>
             <confidence type="unknown">35.0</confidence>
             <clade>
-              <branch_length>0.0017873324657171066</branch_length>
-              <confidence type="unknown">53.0</confidence>
+              <branch_length>0.00156133531262759</branch_length>
+              <confidence type="unknown">47.0</confidence>
               <clade>
                 <name>albumin [Hyaena hyaena]</name>
-                <branch_length>0.1302294726429704</branch_length>
+                <branch_length>0.1266425680799004</branch_length>
               </clade>
               <clade>
                 <name>serum albumin [Piliocolobus tephrosceles]</name>
-                <branch_length>0.015664724522512656</branch_length>
+                <branch_length>0.0043600835363427</branch_length>
               </clade>
             </clade>
             <clade>
-              <branch_length>0.003248004503607849</branch_length>
-              <confidence type="unknown">27.0</confidence>
+              <branch_length>0.0028698155152812317</branch_length>
+              <confidence type="unknown">28.0</confidence>
               <clade>
                 <name>serum albumin [Rhinopithecus roxellana]</name>
-                <branch_length>0.006604952109580127</branch_length>
+                <branch_length>0.011029363699838153</branch_length>
               </clade>
               <clade>
                 <name>serum albumin [Papio anubis]</name>
-                <branch_length>0.011414407322007894</branch_length>
+                <branch_length>0.0122516860180258</branch_length>
               </clade>
             </clade>
           </clade>

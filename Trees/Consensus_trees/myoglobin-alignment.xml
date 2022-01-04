@@ -2,55 +2,55 @@
   <phylogeny rooted="true">
     <clade>
       <clade>
-        <name>myoglobin isoform X1 [Pan paniscus]</name>
-        <branch_length>0.009809506325821888</branch_length>
+        <name>myoglobin [Hyaena hyaena]</name>
+        <branch_length>0.0703478506429946</branch_length>
       </clade>
       <clade>
-        <branch_length>0.009807571938159293</branch_length>
-        <confidence type="unknown">61.0</confidence>
+        <branch_length>0.009626569642933056</branch_length>
+        <confidence type="unknown">55.0</confidence>
         <clade>
-          <name>myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
-          <branch_length>0.0006384321066979677</branch_length>
+          <name>myoglobin [Rhinopithecus roxellana]</name>
+          <branch_length>0.004862065038935801</branch_length>
         </clade>
         <clade>
-          <branch_length>0.01563408449645873</branch_length>
-          <confidence type="unknown">40.0</confidence>
+          <branch_length>0.017063202651432668</branch_length>
+          <confidence type="unknown">41.0</confidence>
           <clade>
-            <name>myoglobin [Hyaena hyaena]</name>
-            <branch_length>0.07063647967186389</branch_length>
+            <name>myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
+            <branch_length>0.019222701504244696</branch_length>
           </clade>
           <clade>
-            <branch_length>0.01370326178089949</branch_length>
-            <confidence type="unknown">46.0</confidence>
+            <branch_length>0.0117977423399179</branch_length>
+            <confidence type="unknown">35.0</confidence>
             <clade>
               <name>myoglobin [Papio anubis]</name>
-              <branch_length>-0.0006384321066979677</branch_length>
+              <branch_length>4.5910421186869804E-05</branch_length>
             </clade>
             <clade>
-              <branch_length>0.008959449802182124</branch_length>
-              <confidence type="unknown">46.0</confidence>
+              <branch_length>0.008097157920882316</branch_length>
+              <confidence type="unknown">53.0</confidence>
               <clade>
-                <name>myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
-                <branch_length>0.008965510377887329</branch_length>
+                <name>myoglobin [Pongo abelii]</name>
+                <branch_length>0.00749896978472229</branch_length>
               </clade>
               <clade>
-                <name>myoglobin [Rhinopithecus roxellana]</name>
-                <branch_length>-0.0003830592640187806</branch_length>
+                <name>myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
+                <branch_length>0.0075257328025084246</branch_length>
               </clade>
             </clade>
           </clade>
         </clade>
       </clade>
       <clade>
-        <branch_length>0.0027080797533471797</branch_length>
-        <confidence type="unknown">51.0</confidence>
-        <clade>
-          <name>myoglobin [Pongo abelii]</name>
-          <branch_length>0.003186718382316659</branch_length>
-        </clade>
+        <branch_length>0.002984903873228476</branch_length>
+        <confidence type="unknown">50.0</confidence>
         <clade>
           <name>myoglobin [Homo sapiens]</name>
-          <branch_length>6.70368840546328E-05</branch_length>
+          <branch_length>0.00023994933487263628</branch_length>
+        </clade>
+        <clade>
+          <name>myoglobin isoform X1 [Pan paniscus]</name>
+          <branch_length>0.009433569407569963</branch_length>
         </clade>
       </clade>
     </clade>
