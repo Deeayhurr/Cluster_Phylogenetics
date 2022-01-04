@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>X1 [Pan paniscus] Query_10042 XP_008973239.1 myoglobin isoform X1 [Pan paniscus]</name>
+        <branch_length>0.010873830181706734</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.00918055327095902</branch_length>
+        <confidence type="unknown">59.0</confidence>
+        <clade>
+          <name>abelii] Query_10044 NP_001125556.1 myoglobin [Pongo abelii]</name>
+          <branch_length>0.005810687995374165</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.01736621835358747</branch_length>
+          <confidence type="unknown">39.0</confidence>
+          <clade>
+            <name>hyaena] Query_10048 XP_039086409.1 myoglobin [Hyaena hyaena]</name>
+            <branch_length>0.03529371388840262</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.012659529421155159</branch_length>
+            <confidence type="unknown">40.0</confidence>
+            <clade>
+              <name>X1 [Piliocolobus tephrosceles] Query_10045 XP_023077864.1 myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
+              <branch_length>0.002228284048094699</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.008251764116783402</branch_length>
+              <confidence type="unknown">51.0</confidence>
+              <clade>
+                <name>roxellana] Query_10047 XP_010387444.1 myoglobin [Rhinopithecus roxellana]</name>
+                <branch_length>0.0</branch_length>
+              </clade>
+              <clade>
+                <name>anubis] Query_10046 XP_003905518.1 myoglobin [Papio anubis]</name>
+                <branch_length>0.0</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.0032775422215157828</branch_length>
+        <confidence type="unknown">58.0</confidence>
+        <clade>
+          <name>sapiens] Query_10041 CAA25109.1 myoglobin [Homo sapiens]</name>
+          <branch_length>0.0004844786928816999</branch_length>
+        </clade>
+        <clade>
+          <name>X1 [Gorilla gorilla gorilla] Query_10043 XP_018874109.1 myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
+          <branch_length>-0.0007472479032256674</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

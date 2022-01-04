@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>glycoprotein hormones alpha chain [Gorilla gorilla gorilla]</name>
+        <branch_length>-0.00046640219661747695</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.018299896321587187</branch_length>
+        <confidence type="unknown">59.0</confidence>
+        <clade>
+          <name>glycoprotein hormones alpha chain isoform 2 precursor [Homo sapiens]</name>
+          <branch_length>0.00046640219661747695</branch_length>
+        </clade>
+        <clade>
+          <name>glycoprotein hormones alpha chain [Pan paniscus]</name>
+          <branch_length>0.019166531800563935</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.018222892113159358</branch_length>
+        <confidence type="unknown">35.0</confidence>
+        <clade>
+          <name>glycoprotein hormones alpha chain [Hyaena hyaena]</name>
+          <branch_length>0.10516163069987682</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.08284274905458015</branch_length>
+          <confidence type="unknown">42.0</confidence>
+          <clade>
+            <name>glycoprotein hormones alpha chain [Rhinopithecus roxellana]</name>
+            <branch_length>0.006367261387454637</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.04898083447862491</branch_length>
+            <confidence type="unknown">44.0</confidence>
+            <clade>
+              <name>glycoprotein hormones alpha chain isoform X1 [Pongo abelii]</name>
+              <branch_length>0.014363268571438076</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.022498362551922266</branch_length>
+              <confidence type="unknown">55.0</confidence>
+              <clade>
+                <name>glycoprotein hormones alpha chain [Piliocolobus tephrosceles]</name>
+                <branch_length>0.007895813097489934</branch_length>
+              </clade>
+              <clade>
+                <name>glycoprotein hormones alpha chain [Papio anubis]</name>
+                <branch_length>0.02579647213967924</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

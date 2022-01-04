@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>[Rhinopithecus roxellana] Query_10006 XP_010357300.1 serum albumin [Rhinopithecus roxellana]</name>
+        <branch_length>0.007166738403575096</branch_length>
+      </clade>
+      <clade>
+        <name>[Papio anubis] Query_10005 XP_031520350.1 serum albumin [Papio anubis]</name>
+        <branch_length>0.01567726587960202</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.0014862692779539154</branch_length>
+        <confidence type="unknown">38.0</confidence>
+        <clade>
+          <name>[Piliocolobus tephrosceles] Query_10007 XP_023054286.1 serum albumin [Piliocolobus tephrosceles]</name>
+          <branch_length>0.007916217855851698</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.003719696638645566</branch_length>
+          <confidence type="unknown">35.0</confidence>
+          <clade>
+            <name>hyaena] Query_10008 XP_039086927.1 albumin [Hyaena hyaena]</name>
+            <branch_length>0.14257571106581274</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.01877083148103485</branch_length>
+            <confidence type="unknown">38.0</confidence>
+            <clade>
+              <branch_length>0.0016425947818621935</branch_length>
+              <confidence type="unknown">46.0</confidence>
+              <clade>
+                <name>[Pan paniscus] Query_10003 XP_003832390.1 serum albumin [Pan paniscus]</name>
+                <branch_length>0.004177178008939221</branch_length>
+              </clade>
+              <clade>
+                <name>sapiens] Query_10001 AAA98797.1 albumin [Homo sapiens]</name>
+                <branch_length>0.003723156235971102</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.003556163985783621</branch_length>
+              <confidence type="unknown">25.0</confidence>
+              <clade>
+                <name>[Pongo abelii] Query_10004 NP_001127106.2 albumin precursor [Pongo abelii]</name>
+                <branch_length>0.008148508919888036</branch_length>
+              </clade>
+              <clade>
+                <name>[Gorilla gorilla gorilla] Query_10002 XP_004038851.2 serum albumin [Gorilla gorilla gorilla]</name>
+                <branch_length>0.011626361782880474</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

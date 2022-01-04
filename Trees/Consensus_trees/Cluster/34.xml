@@ -1,0 +1,14 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>alpha chain isoform X1 [Pongo abelii] Query_10036 XP_003776920.1 glycoprotein hormones alpha chain isoform X1 [Pongo abelii]</name>
+        <branch_length>0.028743315508021394</branch_length>
+      </clade>
+      <clade>
+        <name>alpha chain [Gorilla gorilla gorilla] Query_10035 XP_004044424.1 glycoprotein hormones alpha chain [Gorilla gorilla gorilla]</name>
+        <branch_length>0.028743315508021394</branch_length>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

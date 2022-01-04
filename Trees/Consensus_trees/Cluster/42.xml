@@ -1,0 +1,18 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>X1 [Pan paniscus] Query_10042 XP_008973239.1 myoglobin isoform X1 [Pan paniscus]</name>
+        <branch_length>0.008765238373864226</branch_length>
+      </clade>
+      <clade>
+        <name>X1 [Gorilla gorilla gorilla] Query_10043 XP_018874109.1 myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
+        <branch_length>1.632035280973998E-05</branch_length>
+      </clade>
+      <clade>
+        <name>X1 [Piliocolobus tephrosceles] Query_10045 XP_023077864.1 myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
+        <branch_length>0.009895573920318035</branch_length>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

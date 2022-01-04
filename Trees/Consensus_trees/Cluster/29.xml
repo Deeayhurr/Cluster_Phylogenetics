@@ -1,0 +1,34 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>anubis] Query_10031 XP_003907591.1 glucagon [Papio anubis]</name>
+        <branch_length>0.008238484816535954</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.007653045043398812</branch_length>
+        <confidence type="unknown">96.0</confidence>
+        <clade>
+          <name>paniscus] Query_10026 XP_003820986.1 glucagon [Pan paniscus]</name>
+          <branch_length>0.01399131568792385</branch_length>
+        </clade>
+        <clade>
+          <name>abelii] Query_10027 XP_002812569.1 glucagon [Pongo abelii]</name>
+          <branch_length>0.00011526738417648105</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.00780784584329045</branch_length>
+        <confidence type="unknown">88.0</confidence>
+        <clade>
+          <name>tephrosceles] Query_10029 XP_023073103.1 glucagon [Piliocolobus tephrosceles]</name>
+          <branch_length>0.006984189456172865</branch_length>
+        </clade>
+        <clade>
+          <name>roxellana] Query_10030 XP_010360153.1 glucagon [Rhinopithecus roxellana]</name>
+          <branch_length>0.00036871393150787746</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

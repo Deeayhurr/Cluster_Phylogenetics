@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>serum albumin [Gorilla gorilla gorilla]</name>
+        <branch_length>0.005682230595297051</branch_length>
+      </clade>
+      <clade>
+        <name>albumin precursor [Pongo abelii]</name>
+        <branch_length>0.014177225561134314</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.0016102669303622752</branch_length>
+        <confidence type="unknown">35.0</confidence>
+        <clade>
+          <name>albumin [Homo sapiens]</name>
+          <branch_length>0.0039930239211488</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.0031847276365946668</branch_length>
+          <confidence type="unknown">34.0</confidence>
+          <clade>
+            <name>serum albumin [Pan paniscus]</name>
+            <branch_length>0.006097335940186249</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.019444089322605513</branch_length>
+            <confidence type="unknown">35.0</confidence>
+            <clade>
+              <branch_length>0.0017873324657171066</branch_length>
+              <confidence type="unknown">53.0</confidence>
+              <clade>
+                <name>albumin [Hyaena hyaena]</name>
+                <branch_length>0.1302294726429704</branch_length>
+              </clade>
+              <clade>
+                <name>serum albumin [Piliocolobus tephrosceles]</name>
+                <branch_length>0.015664724522512656</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.003248004503607849</branch_length>
+              <confidence type="unknown">27.0</confidence>
+              <clade>
+                <name>serum albumin [Rhinopithecus roxellana]</name>
+                <branch_length>0.006604952109580127</branch_length>
+              </clade>
+              <clade>
+                <name>serum albumin [Papio anubis]</name>
+                <branch_length>0.011414407322007894</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

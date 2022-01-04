@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>gamma [Pongo abelii] Query_10022 XP_002822176.1 hemoglobin subunit gamma [Pongo abelii]</name>
+        <branch_length>0.012929303272053161</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.02622020452705387</branch_length>
+        <confidence type="unknown">67.0</confidence>
+        <clade>
+          <name>epsilon [Hyaena hyaena] Query_10024 XP_039080597.1 hemoglobin subunit epsilon [Hyaena hyaena]</name>
+          <branch_length>0.06742890449071674</branch_length>
+        </clade>
+        <clade>
+          <name>epsilon [Piliocolobus tephrosceles] Query_10023 XP_026303267.1 hemoglobin subunit epsilon [Piliocolobus tephrosceles]</name>
+          <branch_length>0.05571047304649575</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.0017715589012725845</branch_length>
+        <confidence type="unknown">47.0</confidence>
+        <clade>
+          <branch_length>0.06252399072656475</branch_length>
+          <confidence type="unknown">51.0</confidence>
+          <clade>
+            <name>[Homo sapiens] Query_10017 AAA16331.1 G-gamma globin [Homo sapiens]</name>
+            <branch_length>0.0012475413418809797</branch_length>
+          </clade>
+          <clade>
+            <name>gamma-1 [Gorilla gorilla gorilla] Query_10021 XP_018891711.2 hemoglobin subunit gamma-1 [Gorilla gorilla gorilla]</name>
+            <branch_length>0.0</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.014146907980409523</branch_length>
+          <confidence type="unknown">44.0</confidence>
+          <clade>
+            <name>gamma-1 [Pan paniscus] Query_10018 XP_034787914.1 hemoglobin subunit gamma-1 [Pan paniscus]</name>
+            <branch_length>0.0</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.005975812166743462</branch_length>
+            <confidence type="unknown">71.0</confidence>
+            <clade>
+              <name>gamma-like [Rhinopithecus roxellana] Query_10020 XP_030773087.1 hemoglobin subunit gamma-like [Rhinopithecus roxellana]</name>
+              <branch_length>0.0013557148100045296</branch_length>
+            </clade>
+            <clade>
+              <name>gamma [Papio anubis] Query_10019 NP_001162321.1 hemoglobin subunit gamma [Papio anubis]</name>
+              <branch_length>2.980842169417186E-06</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

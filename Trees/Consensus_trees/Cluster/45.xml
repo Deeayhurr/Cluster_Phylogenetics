@@ -1,0 +1,34 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>hyaena] Query_10048 XP_039086409.1 myoglobin [Hyaena hyaena]</name>
+        <branch_length>0.041807690907948</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.016642756224828886</branch_length>
+        <confidence type="unknown">89.0</confidence>
+        <clade>
+          <name>sapiens] Query_10041 CAA25109.1 myoglobin [Homo sapiens]</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+        <clade>
+          <name>abelii] Query_10044 NP_001125556.1 myoglobin [Pongo abelii]</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.011340231334083127</branch_length>
+        <confidence type="unknown">65.0</confidence>
+        <clade>
+          <name>roxellana] Query_10047 XP_010387444.1 myoglobin [Rhinopithecus roxellana]</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+        <clade>
+          <name>anubis] Query_10046 XP_003905518.1 myoglobin [Papio anubis]</name>
+          <branch_length>0.0</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

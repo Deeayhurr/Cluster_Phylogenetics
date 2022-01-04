@@ -1,0 +1,42 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>alpha chain [Piliocolobus tephrosceles] Query_10038 XP_023061011.1 glycoprotein hormones alpha chain [Piliocolobus tephrosceles]</name>
+        <branch_length>0.0016377392270944119</branch_length>
+      </clade>
+      <clade>
+        <name>alpha chain [Hyaena hyaena] Query_10040 XP_039075373.1 glycoprotein hormones alpha chain [Hyaena hyaena]</name>
+        <branch_length>0.11789677759167881</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.016349976959025923</branch_length>
+        <confidence type="unknown">69.0</confidence>
+        <clade>
+          <name>alpha chain [Rhinopithecus roxellana] Query_10039 XP_010386255.1 glycoprotein hormones alpha chain [Rhinopithecus roxellana]</name>
+          <branch_length>-1.1722966931845824E-05</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.045955687658107786</branch_length>
+          <confidence type="unknown">75.0</confidence>
+          <clade>
+            <name>alpha chain isoform 2 precursor [Homo sapiens] Query_10033 NP_000726.1 glycoprotein hormones alpha chain isoform 2 precursor [Homo sapiens]</name>
+            <branch_length>0.010546099392823235</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.1137434847307358</branch_length>
+            <confidence type="unknown">74.0</confidence>
+            <clade>
+              <name>alpha chain [Pan paniscus] Query_10034 XP_003822896.1 glycoprotein hormones alpha chain [Pan paniscus]</name>
+              <branch_length>0.02504712094615981</branch_length>
+            </clade>
+            <clade>
+              <name>alpha chain [Papio anubis] Query_10037 XP_003897923.2 glycoprotein hormones alpha chain [Papio anubis]</name>
+              <branch_length>0.04604064804940439</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

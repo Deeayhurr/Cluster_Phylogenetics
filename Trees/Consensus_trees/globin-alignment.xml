@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>hemoglobin subunit gamma [Pongo abelii]</name>
+        <branch_length>0.005824312295690519</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.01897275510660654</branch_length>
+        <confidence type="unknown">70.0</confidence>
+        <clade>
+          <name>hemoglobin subunit gamma-like [Rhinopithecus roxellana]</name>
+          <branch_length>0.001294814204414664</branch_length>
+        </clade>
+        <clade>
+          <name>hemoglobin subunit gamma [Papio anubis]</name>
+          <branch_length>5.225831501073919E-07</branch_length>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.001817824568852894</branch_length>
+        <confidence type="unknown">54.0</confidence>
+        <clade>
+          <branch_length>0.0626647969138844</branch_length>
+          <confidence type="unknown">56.0</confidence>
+          <clade>
+            <name>hemoglobin subunit epsilon [Hyaena hyaena]</name>
+            <branch_length>0.06104533505259496</branch_length>
+          </clade>
+          <clade>
+            <name>hemoglobin subunit epsilon [Piliocolobus tephrosceles]</name>
+            <branch_length>0.029393941433193127</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.015396905269302498</branch_length>
+          <confidence type="unknown">52.0</confidence>
+          <clade>
+            <name>G-gamma globin [Homo sapiens]</name>
+            <branch_length>0.008545762152889436</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.006653129486525192</branch_length>
+            <confidence type="unknown">72.0</confidence>
+            <clade>
+              <name>hemoglobin subunit gamma-1 [Gorilla gorilla gorilla]</name>
+              <branch_length>0.0</branch_length>
+            </clade>
+            <clade>
+              <name>hemoglobin subunit gamma-1 [Pan paniscus]</name>
+              <branch_length>0.0</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

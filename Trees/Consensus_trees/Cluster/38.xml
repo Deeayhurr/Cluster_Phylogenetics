@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>alpha chain [Pan paniscus] Query_10034 XP_003822896.1 glycoprotein hormones alpha chain [Pan paniscus]</name>
+        <branch_length>-0.0074529216412181735</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.11796266314057961</branch_length>
+        <confidence type="unknown">53.0</confidence>
+        <clade>
+          <name>alpha chain [Hyaena hyaena] Query_10040 XP_039075373.1 glycoprotein hormones alpha chain [Hyaena hyaena]</name>
+          <branch_length>0.11754561636656884</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.04881679574554796</branch_length>
+          <confidence type="unknown">53.0</confidence>
+          <clade>
+            <name>alpha chain [Papio anubis] Query_10037 XP_003897923.2 glycoprotein hormones alpha chain [Papio anubis]</name>
+            <branch_length>0.03240746129670588</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.020391675982525503</branch_length>
+            <confidence type="unknown">57.0</confidence>
+            <clade>
+              <name>alpha chain [Rhinopithecus roxellana] Query_10039 XP_010386255.1 glycoprotein hormones alpha chain [Rhinopithecus roxellana]</name>
+              <branch_length>0.003323730260349947</branch_length>
+            </clade>
+            <clade>
+              <name>alpha chain [Piliocolobus tephrosceles] Query_10038 XP_023061011.1 glycoprotein hormones alpha chain [Piliocolobus tephrosceles]</name>
+              <branch_length>0.004940732549567381</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.0081506222634231</branch_length>
+        <confidence type="unknown">30.0</confidence>
+        <clade>
+          <name>alpha chain isoform 2 precursor [Homo sapiens] Query_10033 NP_000726.1 glycoprotein hormones alpha chain isoform 2 precursor [Homo sapiens]</name>
+          <branch_length>-0.012641264071505266</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.02003313541123613</branch_length>
+          <confidence type="unknown">53.0</confidence>
+          <clade>
+            <name>alpha chain isoform X1 [Pongo abelii] Query_10036 XP_003776920.1 glycoprotein hormones alpha chain isoform X1 [Pongo abelii]</name>
+            <branch_length>0.023758895550548387</branch_length>
+          </clade>
+          <clade>
+            <name>alpha chain [Gorilla gorilla gorilla] Query_10035 XP_004044424.1 glycoprotein hormones alpha chain [Gorilla gorilla gorilla]</name>
+            <branch_length>0.012772070577388422</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

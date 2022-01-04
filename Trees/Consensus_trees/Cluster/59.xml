@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>sperm-binding protein 2 isoform X1 [Pan paniscus] Query_10059 XP_034795441.1 zona pellucida sperm-binding protein 2 isoform X1 [Pan paniscus]</name>
+        <branch_length>0.004232978553977314</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.005296244296115287</branch_length>
+        <confidence type="unknown">97.0</confidence>
+        <clade>
+          <name>sperm-binding protein 2 isoform X1 [Pongo abelii] Query_10060 XP_024097180.1 zona pellucida sperm-binding protein 2 isoform X1 [Pongo abelii]</name>
+          <branch_length>0.003941493735023824</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.01839388478530727</branch_length>
+          <confidence type="unknown">97.0</confidence>
+          <clade>
+            <name>sperm-binding protein 2 isoform X1 [Hyaena hyaena] Query_10064 XP_039090349.1 zona pellucida sperm-binding protein 2 isoform X1 [Hyaena hyaena]</name>
+            <branch_length>0.31023904371406164</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.01580277431661342</branch_length>
+            <confidence type="unknown">97.0</confidence>
+            <clade>
+              <name>sperm-binding protein 2 [Papio anubis] Query_10063 XP_009194393.2 zona pellucida sperm-binding protein 2 [Papio anubis]</name>
+              <branch_length>0.013845045136214706</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.003915126012931853</branch_length>
+              <confidence type="unknown">86.0</confidence>
+              <clade>
+                <name>sperm-binding protein 2 isoform X1 [Rhinopithecus roxellana] Query_10062 XP_010386890.1 zona pellucida sperm-binding protein 2 isoform X1 [Rhinopithecus roxellana]</name>
+                <branch_length>0.0020502923022073793</branch_length>
+              </clade>
+              <clade>
+                <name>sperm-binding protein 2 [Piliocolobus tephrosceles] Query_10061 XP_023080805.1 zona pellucida sperm-binding protein 2 [Piliocolobus tephrosceles]</name>
+                <branch_length>0.0027247768106350434</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.0008962019578574584</branch_length>
+        <confidence type="unknown">80.0</confidence>
+        <clade>
+          <name>[Homo sapiens] Query_10057 AAH96305.1 ZP2 protein [Homo sapiens]</name>
+          <branch_length>0.005880405644606727</branch_length>
+        </clade>
+        <clade>
+          <name>sperm-binding protein 2 isoform X1 [Gorilla gorilla gorilla] Query_10058 XP_004057364.3 zona pellucida sperm-binding protein 2 isoform X1 [Gorilla gorilla gorilla]</name>
+          <branch_length>0.015407103973244025</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

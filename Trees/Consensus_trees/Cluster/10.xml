@@ -1,0 +1,122 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>sapiens] Query_10009 BAA14130.1 alpha-amylase [Homo sapiens]</name>
+        <branch_length>0.001242023512394181</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.0049370178123217</branch_length>
+        <confidence type="unknown">41.0</confidence>
+        <clade>
+          <branch_length>0.019592837997875374</branch_length>
+          <confidence type="unknown">56.0</confidence>
+          <clade>
+            <name>[Hyaena hyaena] Query_10016 XP_039072587.1 alpha-amylase 2B [Hyaena hyaena]</name>
+            <branch_length>0.06363059731912968</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.9526172077750471</branch_length>
+            <confidence type="unknown">51.0</confidence>
+            <clade>
+              <name>hyaena] Query_10008 XP_039086927.1 albumin [Hyaena hyaena]</name>
+              <branch_length>0.06065861214208268</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.04715611123060709</branch_length>
+              <confidence type="unknown">56.0</confidence>
+              <clade>
+                <branch_length>0.011111478684239123</branch_length>
+                <confidence type="unknown">74.0</confidence>
+                <clade>
+                  <name>[Papio anubis] Query_10005 XP_031520350.1 serum albumin [Papio anubis]</name>
+                  <branch_length>0.016328179627913053</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.0053461805607666665</branch_length>
+                  <confidence type="unknown">60.0</confidence>
+                  <clade>
+                    <name>[Piliocolobus tephrosceles] Query_10007 XP_023054286.1 serum albumin [Piliocolobus tephrosceles]</name>
+                    <branch_length>0.010187048667140097</branch_length>
+                  </clade>
+                  <clade>
+                    <name>[Rhinopithecus roxellana] Query_10006 XP_010357300.1 serum albumin [Rhinopithecus roxellana]</name>
+                    <branch_length>0.011645669660043156</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.021498930082895624</branch_length>
+                <confidence type="unknown">51.0</confidence>
+                <clade>
+                  <name>[Pan paniscus] Query_10003 XP_003832390.1 serum albumin [Pan paniscus]</name>
+                  <branch_length>0.006551970710538896</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.004498056124523368</branch_length>
+                  <confidence type="unknown">61.0</confidence>
+                  <clade>
+                    <name>[Gorilla gorilla gorilla] Query_10002 XP_004038851.2 serum albumin [Gorilla gorilla gorilla]</name>
+                    <branch_length>0.007798406006249703</branch_length>
+                  </clade>
+                  <clade>
+                    <branch_length>0.004107086950031914</branch_length>
+                    <confidence type="unknown">46.0</confidence>
+                    <clade>
+                      <name>[Pongo abelii] Query_10004 NP_001127106.2 albumin precursor [Pongo abelii]</name>
+                      <branch_length>0.009943064020844272</branch_length>
+                    </clade>
+                    <clade>
+                      <name>sapiens] Query_10001 AAA98797.1 albumin [Homo sapiens]</name>
+                      <branch_length>0.004501716994980365</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.011234529373550139</branch_length>
+          <confidence type="unknown">57.0</confidence>
+          <clade>
+            <name>[Pongo abelii] Query_10012 XP_024108681.1 alpha-amylase 1 [Pongo abelii]</name>
+            <branch_length>0.018317832188390823</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.004776863630891953</branch_length>
+            <confidence type="unknown">46.0</confidence>
+            <clade>
+              <name>[Pan paniscus] Query_10011 XP_003818736.2 alpha-amylase 2B [Pan paniscus]</name>
+              <branch_length>0.01051890152541294</branch_length>
+            </clade>
+            <clade>
+              <name>[Gorilla gorilla gorilla] Query_10010 XP_030863335.1 alpha-amylase 2B [Gorilla gorilla gorilla]</name>
+              <branch_length>0.0008134749459819783</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.008388707920245694</branch_length>
+        <confidence type="unknown">40.0</confidence>
+        <clade>
+          <name>[Papio anubis] Query_10014 XP_009212204.3 alpha-amylase 1 [Papio anubis]</name>
+          <branch_length>0.013264816644762194</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.009637131954535732</branch_length>
+          <confidence type="unknown">49.0</confidence>
+          <clade>
+            <name>[Piliocolobus tephrosceles] Query_10015 XP_023046681.1 alpha-amylase 2B [Piliocolobus tephrosceles]</name>
+            <branch_length>0.02395501899550927</branch_length>
+          </clade>
+          <clade>
+            <name>[Rhinopithecus roxellana] Query_10013 XP_010370880.1 alpha-amylase 2B [Rhinopithecus roxellana]</name>
+            <branch_length>0.0073057161470533975</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

@@ -1,0 +1,18 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>sapiens] Query_10025 AAH05278.1 Glucagon [Homo sapiens]</name>
+        <branch_length>0.0005356994258134407</branch_length>
+      </clade>
+      <clade>
+        <name>gorilla gorilla] Query_10028 XP_004032757.2 glucagon [Gorilla gorilla gorilla]</name>
+        <branch_length>0.005611841557793151</branch_length>
+      </clade>
+      <clade>
+        <name>hyaena] Query_10032 XP_039109363.1 pro-glucagon [Hyaena hyaena]</name>
+        <branch_length>0.07256074727469419</branch_length>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

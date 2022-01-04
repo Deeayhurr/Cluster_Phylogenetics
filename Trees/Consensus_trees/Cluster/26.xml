@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <branch_length>0.0023137197653271954</branch_length>
+        <confidence type="unknown">47.0</confidence>
+        <clade>
+          <name>hyaena] Query_10032 XP_039109363.1 pro-glucagon [Hyaena hyaena]</name>
+          <branch_length>0.0727541594361973</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.0024374165341533725</branch_length>
+          <confidence type="unknown">51.0</confidence>
+          <clade>
+            <name>sapiens] Query_10025 AAH05278.1 Glucagon [Homo sapiens]</name>
+            <branch_length>-0.003700123778072606</branch_length>
+          </clade>
+          <clade>
+            <name>paniscus] Query_10026 XP_003820986.1 glucagon [Pan paniscus]</name>
+            <branch_length>0.003700123778072606</branch_length>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.004513118059985093</branch_length>
+        <confidence type="unknown">34.0</confidence>
+        <clade>
+          <name>anubis] Query_10031 XP_003907591.1 glucagon [Papio anubis]</name>
+          <branch_length>0.00408325704487171</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.005863387764997</branch_length>
+          <confidence type="unknown">55.0</confidence>
+          <clade>
+            <name>roxellana] Query_10030 XP_010360153.1 glucagon [Rhinopithecus roxellana]</name>
+            <branch_length>0.006078984661572539</branch_length>
+          </clade>
+          <clade>
+            <name>tephrosceles] Query_10029 XP_023073103.1 glucagon [Piliocolobus tephrosceles]</name>
+            <branch_length>0.01509250439982478</branch_length>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.005647620585070095</branch_length>
+        <confidence type="unknown">33.0</confidence>
+        <clade>
+          <name>abelii] Query_10027 XP_002812569.1 glucagon [Pongo abelii]</name>
+          <branch_length>-0.0006828605296217843</branch_length>
+        </clade>
+        <clade>
+          <name>gorilla gorilla] Query_10028 XP_004032757.2 glucagon [Gorilla gorilla gorilla]</name>
+          <branch_length>-0.003700123778072606</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

@@ -1,0 +1,58 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <clade>
+        <name>myoglobin isoform X1 [Pan paniscus]</name>
+        <branch_length>0.009809506325821888</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.009807571938159293</branch_length>
+        <confidence type="unknown">61.0</confidence>
+        <clade>
+          <name>myoglobin isoform X1 [Piliocolobus tephrosceles]</name>
+          <branch_length>0.0006384321066979677</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.01563408449645873</branch_length>
+          <confidence type="unknown">40.0</confidence>
+          <clade>
+            <name>myoglobin [Hyaena hyaena]</name>
+            <branch_length>0.07063647967186389</branch_length>
+          </clade>
+          <clade>
+            <branch_length>0.01370326178089949</branch_length>
+            <confidence type="unknown">46.0</confidence>
+            <clade>
+              <name>myoglobin [Papio anubis]</name>
+              <branch_length>-0.0006384321066979677</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.008959449802182124</branch_length>
+              <confidence type="unknown">46.0</confidence>
+              <clade>
+                <name>myoglobin isoform X1 [Gorilla gorilla gorilla]</name>
+                <branch_length>0.008965510377887329</branch_length>
+              </clade>
+              <clade>
+                <name>myoglobin [Rhinopithecus roxellana]</name>
+                <branch_length>-0.0003830592640187806</branch_length>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <branch_length>0.0027080797533471797</branch_length>
+        <confidence type="unknown">51.0</confidence>
+        <clade>
+          <name>myoglobin [Pongo abelii]</name>
+          <branch_length>0.003186718382316659</branch_length>
+        </clade>
+        <clade>
+          <name>myoglobin [Homo sapiens]</name>
+          <branch_length>6.70368840546328E-05</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
